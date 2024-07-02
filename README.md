@@ -15,7 +15,7 @@ The goal of this project is to gain insights into the car dataset and demonstrat
 
 3. **Value Count Analysis:**
    - The distribution of car makes is analyzed using `value_counts()` and visualized with a **bar chart (see image below)**.
-   - ![Project logo](images/download.png)
+   - ![Project logo](download.png)
 
 4. **Filtering:**
    - Records with 'Origin' as 'Asia' or 'Europe' are extracted.
